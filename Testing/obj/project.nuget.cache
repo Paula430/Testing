@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fUkGhIJG4kU=",
+  "dgSpecHash": "IbXQ+rekFFI=",
   "success": true,
-  "projectFilePath": "G:\\Dokumenty\\infomex\\Testy\\WUP\\WUP\\WUP.csproj",
+  "projectFilePath": "G:\\Dokumenty\\infomex\\Testy\\WUP\\WUP\\Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paula\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\paula\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

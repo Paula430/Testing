@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using WUP.Pages;
+﻿using WUP.Pages;
 using Microsoft.Playwright.NUnit;
 
 namespace WUP.Tests

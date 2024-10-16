@@ -1679,9 +1679,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Dokumenty\\infomex\\Testy\\WUP\\WUP\\WUP.csproj",
-      "projectName": "WUP",
-      "projectPath": "G:\\Dokumenty\\infomex\\Testy\\WUP\\WUP\\WUP.csproj",
+      "projectUniqueName": "G:\\Dokumenty\\infomex\\Testy\\WUP\\WUP\\Testing.csproj",
+      "projectName": "Testing",
+      "projectPath": "G:\\Dokumenty\\infomex\\Testy\\WUP\\WUP\\Testing.csproj",
       "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
       "outputPath": "G:\\Dokumenty\\infomex\\Testy\\WUP\\WUP\\obj\\",
       "projectStyle": "PackageReference",

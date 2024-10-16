@@ -1,0 +1,7 @@
+.vs/
+
+# Ignore build output and other temporary files
+*.obj
+*.log
+*.tmp
+*.vsdx
